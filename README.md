@@ -35,7 +35,7 @@ The unusual data found may be due to data collection errors, mixing different ty
 ## Intallation
 The code consists of a single [python file](https://github.com/Brett-Kennedy/DataConsistencyChecker/blob/main/check_data_consistency.py) which may be downloaded and included in any project. It uses one package, which must be installed as:
 
-pip intall termcolor
+pip install termcolor
 
 Otherwise, it does not rely on any packages other than numpy, pandas, scipy, matplotlib, seaborn, and other standard libraries. Once downloaded, it may be included as:
 
